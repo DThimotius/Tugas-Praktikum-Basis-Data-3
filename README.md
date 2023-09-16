@@ -1,7 +1,7 @@
 # Tugas Praktikum Basis Data 3
-Nama  : David Thimotius Rarung
-NPM   : G1A022045
-Kelas : A2
+Nama  : David Thimotius Rarung <br>
+NPM   : G1A022045 <br>
+Kelas : A2 <br>
 
 # Tabel Nasabah
 ![Perancangan Tabel Nasabah](https://i.imgur.com/W7Ciksq.png)
