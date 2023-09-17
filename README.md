@@ -24,7 +24,7 @@ Gambar tersebut merupakan tabel saldo tabungan yang telah dibuat di mysql.
 # Tabel Teller
 ![Perancangan Tabel Teller](https://i.imgur.com/v5RVNlg.png)
 
-Gambar tersebut merupakan gambar perancangan tabel teller yang akan dibuat menjadi sebuah database pada mysql. Tabel tersebut memiliki beberapa kolom yaitu id_teller, nama_teller, alamat, tanggal_lahir, jenis_kelamin, no_telepon, dan email. Tabel terseut memiliki id_teller sebagai primary key. <br>
+Gambar tersebut merupakan gambar perancangan tabel teller yang akan dibuat menjadi sebuah database pada mysql. Tabel tersebut memiliki beberapa kolom yaitu id_teller, nama_teller, alamat, tanggal_lahir, jenis_kelamin, no_telepon, dan email. Tabel tersebut memiliki id_teller sebagai primary key. <br>
 
 ![Tabel Teller](https://i.imgur.com/43bUpXT.png)
 
