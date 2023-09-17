@@ -22,29 +22,29 @@ Gambar tersebut merupakan gambar perancangan tabel saldo tabungan yang akan dibu
 Gambar tersebut merupakan tabel saldo tabungan yang telah dibuat di mysql.
 
 # Tabel Teller
-![Perancangan Tabel Teller](https://i.imgur.com/4nXtc4Y.png)
+![Perancangan Tabel Teller](https://i.imgur.com/v5RVNlg.png)
 
-Gambar tersebut merupakan gambar perancangan tabel teller yang akan dibuat menjadi sebuah database pada mysql. Tabel tersebut memiliki dua kolom yaitu id_teller dan nama_teller. Tabel terseut memiliki id_teller sebagai primary key. <br>
+Gambar tersebut merupakan gambar perancangan tabel teller yang akan dibuat menjadi sebuah database pada mysql. Tabel tersebut memiliki beberapa kolom yaitu id_teller, nama_teller, alamat, tanggal_lahir, jenis_kelamin, no_telepon, dan email. Tabel terseut memiliki id_teller sebagai primary key. <br>
 
-![Tabel Teller](https://i.imgur.com/7zV17HP.png)
+![Tabel Teller](https://i.imgur.com/43bUpXT.png)
 
 Gambar tersebut merupakan tabel teller yang telah dibuat di mysql.
 
 # Tabel CS
-![Perancangan Tabel CS](https://i.imgur.com/jfiEPso.png)
+![Perancangan Tabel CS](https://i.imgur.com/sTQwLXW.png)
 
-Gambar tersebut merupakan gambar perancangan tabel cs yang akan dibuat menjadi sebuah database pada mysql. Tabel tersebut memiliki dua kolom yaitu id_cs dan nama_cs. Tabel tersebut memiliki id_cs sebagai primary key. <br>
+Gambar tersebut merupakan gambar perancangan tabel cs yang akan dibuat menjadi sebuah database pada mysql. Tabel tersebut memiliki beberapa kolom yaitu id_cs, nama_cs, alamat, tanggal_lahir, jenis_kelamin, no_telepon, dan email. Tabel tersebut memiliki id_cs sebagai primary key. <br>
 
-![Tabel CS](https://i.imgur.com/HjlSfa6.png)
+![Tabel CS](https://i.imgur.com/NoBzkEc.png)
 
 Gambar tersebut merupakan tabel cs yang telah dibuat di mysql.
 
 # Tabel Direktur Bank
-![Perancangan Tabel Direktur Bank](https://i.imgur.com/gTAkyAt.png)
+![Perancangan Tabel Direktur Bank](https://i.imgur.com/ft7bYM4.png)
 
-Gambar tersebut merupakan gambar perancangan tabel direktur bank yang akan dibuat menjadi sebuah database pada mysql. Tabel tersebut memiliki dua kolom yaitu id_direktur dan nama_direktur. Tabel tersebut memiliki id_direktur sebagai primary key. <br>
+Gambar tersebut merupakan gambar perancangan tabel direktur bank yang akan dibuat menjadi sebuah database pada mysql. Tabel tersebut memiliki beberapa kolom yaitu id_direktur, nama_direktur, alamat, tanggal_lahir, jenis_kelamin, no_telepon, dan email. Tabel tersebut memiliki id_direktur sebagai primary key. <br>
 
-![Tabel Direktur Bank](https://i.imgur.com/2fPDNYR.png)
+![Tabel Direktur Bank](https://i.imgur.com/1JlnVnp.png)
 
 Gambar tersebut merupakan tabel direktur bank yang telah dibuat di mysql.
 
